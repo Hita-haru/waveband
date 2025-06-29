@@ -126,4 +126,4 @@ python radio.py -m <モード> -f <周波数>
 *   プログラムを停止するには `Ctrl+C` を押してください。
 
 このReadmeファイルはGoogle Geminiを使用して作成されました。
-This file created by Google Gemini
+This README.md file created by Google Gemini
